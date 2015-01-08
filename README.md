@@ -64,7 +64,7 @@ Example for output of script (set to mark nominal compounds only):
 	needed			VBN	O
 	,				,	O
 	to				TO	O
-	find				VB	O
+	find			VB	O
 	out				RP	O
 	what			WP	O
 	sort			NN	O
